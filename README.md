@@ -1,12 +1,1 @@
-
-<html>
-  <head>
-
-  </head>
-
-  <body>
-
-  <p style="font-size:40px; color:87CEEB" align = "center">Enrolled in a computer science program starting Aug 25 2025.
-  </p>
-  </body>
-</html>
+##Enrolled in a Computer Science Associates Program starting August 25 2025

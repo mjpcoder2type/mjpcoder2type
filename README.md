@@ -6,7 +6,7 @@
 
   <body>
 
-  <p align = center>Starting a CS degree this fall.  Excited about the world of Prompt Engineering!
+  <p style="font-size:20px; color:87CEEB" align = "center">Enrolled in a computer science program starting Aug 25 2025.
   </p>
   </body>
 </html>
